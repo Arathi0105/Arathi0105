@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arathi Nambiar</h1>
 <h3 align="center">A passionate Software Engineer In India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Arathi0105/Arathi0105/assets/84342283/74473f76-dd4e-4cdd-b911-b0d90a8c7971)">
+<img align="right" alt="coding" width="500" src="![image](https://github.com/Arathi0105/Arathi0105/assets/84342283/74473f76-dd4e-4cdd-b911-b0d90a8c7971)">
 ">
 
 
