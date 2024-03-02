@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arathi Nambiar</h1>
 <h3 align="center">A passionate Software Engineer In India</h3>
 
-<img align="right" alt="coding" width="500" src="[![image](https://github.com/Arathi0105/Arathi0105/assets/84342283/74473f76-dd4e-4cdd-b911-b0d90a8c7971)](https://gifdb.com/images/thumbnail/coding-skills-loading-dk68v8z0hevjpuiv.gif)">
-">
+<img align="right" alt="coding" width="500" src="(https://gifdb.com/images/thumbnail/coding-skills-loading-dk68v8z0hevjpuiv.gif)">
 
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/arathi-nambiar-557074244/](https://www.linkedin.com/in/arathi-nambiar-557074244/)
